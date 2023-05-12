@@ -1,6 +1,18 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## Bem-vindo(a) ao meu perfil 😁
+# Hi there, I'm Salomão Batista! 👋
+
+## 💻 About Me
+I'm a passionate software developer with a love for coding and creating innovative solutions. I enjoy working on both front-end and back-end technologies, and I'm always eager to learn new things. Currently, I'm exploring the world of artificial intelligence and machine learning.
+
+## 🚀 My Skills
+- **Programming Languages:** Python, JavaScript, Java
+- **Front-end Development:** HTML, CSS, JavaScript, React
+- **Back-end Development:** Node.js, Express, Django
+- **Database Technologies:** MySQL, PostgreSQL, MongoDB
+- **Machine Learning:** TensorFlow, PyTorch
+- **Version Control:** Git, GitHub
+- **DevOps:** Docker, AWS, Heroku
 
  <div>
   <a href="https://github.com/Salomao123">
